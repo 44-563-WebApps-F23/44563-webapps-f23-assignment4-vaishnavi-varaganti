@@ -57,3 +57,72 @@
 .table tbody tr:nth-child(even) {
     background-color:lightgrey;
 }
+
+.DrStockmann:hover{
+    color:firebrick;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.MrsStockmann:hover{
+    color:firebrick;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.Horster:hover{
+    color:firebrick;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.Petra:hover{
+    color:firebrick;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.navbar li {
+    padding: 10px;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #ffc107;
+}
